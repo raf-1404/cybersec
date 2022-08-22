@@ -1,6 +1,6 @@
 # cybersec
-# These are some projects I've worked on to improve my skills 
-DONOT DOWNLOAD 
+# These are some projects I've worked on to improve my skills #DONOT DOWNLOAD
+ 
 a) combovirus.cpp 
 Is a source code of a simple virus file that I've created that works on windows system if security settings are turned of in C++ that are divided into parts 
 
