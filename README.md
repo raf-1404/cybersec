@@ -11,4 +11,9 @@ Is a source code of a simple virus file that I've created that works on windows 
    opens microsoft edge and powershell infinte times 
 
 
- b) virus.vbs is a simple virus in Visual BASIC Script
+ b) virus.vbs is a simple virus in Visual BASIC Script . Is a source code of a simple virus file that I've created that works on windows system if security settings are turned of in C++ that are divided into parts
+ 
+ OPENS NOTEPAD AND Pastes current date to it 100 times
+ Blocks input from mouse and keyboard thru blockinput windows api 
+ opens a url in web browser and opens it 6 times 
+ 
