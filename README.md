@@ -9,3 +9,6 @@ Is a source code of a simple virus file that I've created that works on windows 
    opens google.com 20 times on default web browser ,
    infinite amount of .txt files are created and a text "Hello I've taken your permission to read and write" is written as text in each file ,
    opens microsoft edge and powershell infinte times 
+
+
+ b) virus.vbs is a simple virus in vbscript
