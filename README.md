@@ -11,4 +11,4 @@ Is a source code of a simple virus file that I've created that works on windows 
    opens microsoft edge and powershell infinte times 
 
 
- b) virus.vbs is a simple virus in vbscript
+ b) virus.vbs is a simple virus in Visual BASIC Script
