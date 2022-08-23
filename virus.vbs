@@ -20,5 +20,5 @@ oAutoIt.blockinput 0
 dim urlg = "https://www.google.co.in"
 for i to step 6
   wshshell.run(urli)
-end For  
+
   
