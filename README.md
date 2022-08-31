@@ -20,3 +20,5 @@ Is a simple virus in Visual BASIC Script . Is a source code of a simple virus fi
  Blocks input from mouse and keyboard thru blockinput windows api 
  opens a url in web browser and opens it 6 times 
  
+ c) antivirus1.cpp Simple antivirus program that compares MD5 hashes obtain from source code to the MD5 hashes already precompiled stored in a text file called md5sum.txt
+ 
